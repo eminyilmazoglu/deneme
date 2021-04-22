@@ -1,0 +1,13 @@
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\bin\Debug\netcoreapp3.1\ConsoleCoreGit.exe
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\bin\Debug\netcoreapp3.1\ConsoleCoreGit.deps.json
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\bin\Debug\netcoreapp3.1\ConsoleCoreGit.runtimeconfig.json
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\bin\Debug\netcoreapp3.1\ConsoleCoreGit.runtimeconfig.dev.json
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\bin\Debug\netcoreapp3.1\ConsoleCoreGit.dll
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\bin\Debug\netcoreapp3.1\ConsoleCoreGit.pdb
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.AssemblyInfo.cs
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.dll
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.pdb
+E:\Documents\Visual Studio 2019\ConsoleCoreGit\ConsoleCoreGit\obj\Debug\netcoreapp3.1\ConsoleCoreGit.genruntimeconfig.cache
